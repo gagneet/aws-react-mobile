@@ -27,7 +27,7 @@ require("babel-polyfill");
 const federated = {
     google_client_id: 'yourGoogleClientID',
     facebook_app_id: 'yourFacebookClientID',
-    amazon_client_id: 'yourAmazonClientID'
+    amazon_client_id: 'AKIA4SK5DA36X6OYKWFA'
 };
 
 class App extends Component {
